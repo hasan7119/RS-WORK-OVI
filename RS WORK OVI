@@ -342,7 +342,29 @@ http://xtv.ooo:8080/Sehrish/12345/245893
 #EXTINF:-113 tvg-logo="https://i.ibb.co/r6wm/202401-2148.png"group-title="ISLAMIC CHANNEL", AL QURAN REDIO 
 http://xtv.ooo:8080/Sehrish/12345/245893
 
+#EXTINF:-114 tvg-logo="https://i.ibb.co/W0b3wfr/20240508-120805.jpg"group-title="IPL LIVE CRICKET", IPL Live Bangla 
+http://mega4k.one:8080/live/biharilal/7647854/119732.m3u8
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤসতর্কীকরণ নোটিশ
+#EXTINF:-115 tvg-logo="https://i.ibb.co/ySGKSwb/20240508-120741.jpg"group-title="IPL LIVE CRICKET", IPL Live English
+https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 
- এই প্লেলিস্ট লোগো, চ্যানেলে লিংক, এবং অন্য কিছু কপি করে নিজের প্লেলিস্ট ব্যাবহার করলে তাকে আইনের আওতায় আনা হবে। 
+#EXTINF:-116 tvg-logo="https://i.ibb.co/KrcB0Dp/20240508-120701.jpg"group-title="IPL LIVE CRICKET", IPL Live Hindi
+https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+
+#EXTINF:-117 tvg-logo="https://i.ibb.co/NpddYsq/20240508-120435.jpg"group-title="Sports", T-Sports
+http://103.151.60.214:7444/1101/video.m3u8
+
+#EXTINF:-118 tvg-logo="https://i.ibb.co/mztDgdn/20240508-120353.jpg"group-title="Sports", Star Sport s1
+http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:03:8a:5b&stream=1104673&extension=m3u8
+
+#EXTINF:-119 tvg-logo="https://i.ibb.co/WsnNVbH/20240508-120324.jpg"group-title="Sports", PTV Sports
+http://zeestb1.online/ditto.php?id=303
+
+#EXTINF:-120 tvg-logo="https://i.ibb.co/bz64NnV/20240508-120248.jpg"group-title="", Sports", GTV - Gazi
+http://103.151.60.214:7444/1102/video.m3u8
+
+#EXTINF:-121 tvg-logo="https://i.ibb.co/w74D4xY/20240508-120338.jpg"group-title="Sports", Ten Sports
+http://121.91.61.106:8000/play/a04h/index.m3u8
+
+#EXTINF:-122 tvg-logo="https://i.ibb.co/tH5VXck/20240508-120232.jpg"group-title="Sports", Astro Cricket
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
